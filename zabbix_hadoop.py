@@ -1,6 +1,6 @@
 __author__ = 'ssj'
 """
-网上找的监控大数据的python模板，版本2.7可用
+网上找的监控大数据的python模板，版本2.7可用，嗯嗯
 """
 import json
 import urllib3
