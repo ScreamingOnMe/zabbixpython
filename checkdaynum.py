@@ -1,5 +1,5 @@
 """
-此脚本未用，是网优shell的python版本，自己写着玩
+此脚本未用，是网优shell的python版本，自己写着玩   dfd
 """
 import sys
 import os
