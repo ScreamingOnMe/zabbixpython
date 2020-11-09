@@ -8,7 +8,6 @@ from email.header import Header
 from smtplib import SMTP_SSL
 import sys
 
-
 smtpaddr = 'smtp.boco.com.cn'
 myemail = 'lijian@boco.com.cn'
 password = r'JLwg!2018'
